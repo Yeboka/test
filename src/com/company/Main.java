@@ -8,5 +8,6 @@ public class Main {
         Scanner in = new Scanner(System.in);
         System.out.println(in.nextLine());
         System.out.println("Yerbooooooooooooooooo");
+        System.out.println("Zhaniiiiiiiik");
     }
 }
