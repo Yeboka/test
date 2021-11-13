@@ -7,6 +7,6 @@ public class Main {
 	// write your code here
         Scanner in = new Scanner(System.in);
         System.out.println(in.nextLine());
-        System.out.println("Rrrrrrrrrrrrrr");
+        System.out.println("Yerbooooooooooooooooo");
     }
 }
